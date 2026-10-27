@@ -6,7 +6,7 @@ MSSV: 24521858
 
 Lớp: DS201.R11.1
 
-lab2_dl
-* BTVN.ipynb
-* BTTL.ipynb
+**lab2_dl**
+* *BTVN.ipynb*
+* *BTTL.ipynb*
   
