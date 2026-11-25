@@ -2,16 +2,12 @@
 
 Tìm hiểu, xây dựng, huấn luyện và đánh giá các kiến trúc mạng CNN trên bộ dữ liệu hình ảnh món ăn Việt Nam VinaFood21.
 
-## 👤 Thông tin sinh viên
-
-| Thông tin | Chi tiết |
-|---|---|
 | **Họ và tên** | Đặng Nguyễn Tú Trinh |
 | **MSSV** | 24521858 |
 | **Lớp** | DS201.R11.1 |
 | **Môn học** | DS201 - Deep Learning trong Khoa học Dữ liệu |
 
-## 📂 Cấu trúc Repository
+## Cấu trúc Repository
 
 ```text
 lab2_dl/
@@ -42,7 +38,7 @@ lab2_dl/
 | `outputs_resnet18/` | Kết quả thực nghiệm mô hình ResNet-18 |
 | `outputs_resnet50_hf/` | Kết quả thực nghiệm mô hình ResNet-50 sử dụng pretrained weights từ Hugging Face |
 
-## 📚 Nội dung thực hiện
+## Nội dung thực hiện
 
 ### 1. Bài tập thực hành trên lớp (BTTL)
 
@@ -86,7 +82,7 @@ lab2_dl/
 - Sử dụng ảnh đầu vào kích thước 224×224.
 - So sánh kết quả của hai phương pháp thông qua các độ đo đánh giá.
 
-## 📊 Đánh giá và so sánh mô hình
+## Đánh giá và so sánh mô hình
 
 Các mô hình được đánh giá trên tập kiểm thử bằng những độ đo: Accuracy, Precision, Recall, Macro-F1
 
@@ -97,7 +93,7 @@ Các kết quả thực nghiệm được tổng hợp và so sánh dựa trên:
 - Accuracy trên tập kiểm thử.
 - Macro-F1 trên tập kiểm thử.
 
-## 🛠️ Công nghệ và thư viện sử dụng
+## Công nghệ và thư viện sử dụng
 
 - **Python**
 - **PyTorch:** Xây dựng và huấn luyện mô hình Deep Learning.
@@ -108,7 +104,7 @@ Các kết quả thực nghiệm được tổng hợp và so sánh dựa trên:
 - **Matplotlib & Seaborn:** Trực quan hóa kết quả và Confusion Matrix.
 - **Jupyter Notebook:** Môi trường triển khai và thực nghiệm.
 
-## 🚀 Hướng dẫn sử dụng
+## Hướng dẫn sử dụng
 
 ### 1. Clone repository
 
